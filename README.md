@@ -10,3 +10,4 @@ Project Management Angular SPA
 ## EDIT sergey at 2019-03-28 19:14
 
 ## EDIT Lila at 2019-03-29 16:29
+## EDIT Sergey at 2019-03-29 17:02 from GitHub
